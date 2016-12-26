@@ -1,0 +1,12 @@
+{
+	"name": "android_native",
+	"version": "0.0.1",
+	"description": "android native use react-native",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node node_modules/react-native/local-cli/cli.js start"
+	},
+	"author": "dhy",
+	"license": "ISC"
+}
